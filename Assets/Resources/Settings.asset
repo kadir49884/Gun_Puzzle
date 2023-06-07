@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f85d372f4668884da1aa660222e393b, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  shoottingTime: 0.5
+  bulletSpeed: 5000
+  _aimSpeed: 10
+  _aimIntervalYmin: 230
+  _aimIntervalYmax: 300
+  _aimIntervalZmin: 240
+  _aimIntervalZmax: 290
+  _magazineUpSpeed: -0.5
